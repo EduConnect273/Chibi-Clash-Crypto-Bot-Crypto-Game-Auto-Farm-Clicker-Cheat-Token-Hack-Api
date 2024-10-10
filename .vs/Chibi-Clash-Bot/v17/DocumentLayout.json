@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubNew\\14\\Chibi Clash\\Chibi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DD5BB6-F3CC-4442-8C7D-BB2640D706FA}|Chibi-Clash-Exp\\Chibi-Clash.Bot.csproj|d:\\githubnew\\14\\chibi clash\\chibi\\chibi-clash-exp\\utils\\nativeimports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DD5BB6-F3CC-4442-8C7D-BB2640D706FA}|Chibi-Clash-Exp\\Chibi-Clash.Bot.csproj|solutionrelative:chibi-clash-exp\\utils\\nativeimports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NativeImports.cs",
+              "DocumentMoniker": "D:\\GithubNew\\14\\Chibi Clash\\Chibi\\Chibi-Clash-Exp\\Utils\\NativeImports.cs",
+              "RelativeDocumentMoniker": "Chibi-Clash-Exp\\Utils\\NativeImports.cs",
+              "ToolTip": "D:\\GithubNew\\14\\Chibi Clash\\Chibi\\Chibi-Clash-Exp\\Utils\\NativeImports.cs",
+              "RelativeToolTip": "Chibi-Clash-Exp\\Utils\\NativeImports.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:40:34.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
